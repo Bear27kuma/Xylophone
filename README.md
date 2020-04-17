@@ -4,7 +4,7 @@ This is my first musical instrument! Music apps are so popular on the App Store 
 
 <br />
 
-<img height="500" alt="screenshot" src="">
+<img height="500" alt="screenshot" src="https://user-images.githubusercontent.com/39920490/79591626-c0f70f80-8113-11ea-8c9e-e2b3ccbff61c.png">
 
 <br />
 
